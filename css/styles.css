@@ -1,7 +1,7 @@
 
 #bigcontainer{
 
-background-color: lightblue;
+background-color: black;
 height: 100vh;
 
 
@@ -23,7 +23,7 @@ height: 100vh;
 }
 
 #imagen {
- background-color: lightpink;
+ background-color: silver;
  height: 64vh;
 }
 
