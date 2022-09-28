@@ -5,11 +5,54 @@ background-color: lightblue;
 height: 100vh;
 
 
+
 }
 
 #menu {
 
     background-color: lightcoral;
     height: 35vh;
-    margin-left: 0.0em;
+    
+    
+}
+
+#menuup {
+
+    background-color: mediumaquamarine;
+    height: 17.5vh;
+}
+
+#imagen {
+ background-color: lightpink;
+ height: 64vh;
+}
+
+#carousel {
+background-color: sandybrown;
+height: 64vh;
+
+}
+#menudmid {
+
+    background-color: peachpuff;
+    height: 17.5vh;
+    
+}
+#colmenumiddown {
+
+    background-color: lightslategray;
+    height: 5vh;
+    border: 1px solid;
+
+}
+#colnavbar {
+
+background-color: bisque;
+height: 5vh;
+}
+
+#colmenubar {
+
+    background-color: tomato;
+    height: 5vh;
 }
