@@ -1,60 +1,16 @@
+#huevo{
 
-#bigcontainer{
-
-background-color: black;
-height: 100vh;
-
+    background-color: lightslategrey;
+    height: 10vh;
 
 
 }
 
-#menu {
+.huevomenu {
 
-    background-color: lightcoral;
-    height: 35vh;
-    
-    
-}
+    width: 5vw;
+    height: 10vh;
 
-#menuup {
-
-    background-color: mediumaquamarine;
-    height: 17.5vh;
-}
-
-#imagen {
- background-color: silver;
- height: 64vh;
-}
-
-/* #carouselself {
-background-color: sandybrown;
-height: 64vh;
-
-} */
-#menudmid {
-
-    background-color: peachpuff;
-    height: 17.5vh;
-    
-}
-#colmenumiddown {
-
-    background-color: lightslategray;
-    height: 5vh;
-    border: 1px solid;
-
-}
-#colnavbar {
-
-background-color: bisque;
-height: 5vh;
-}
-
-#colmenubar {
-
-    background-color: tomato;
-    height: 5vh;
 }
 
 
