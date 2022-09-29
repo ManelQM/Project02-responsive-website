@@ -14,8 +14,13 @@
 }
 #midweb {
 
-    background-color:rgb(0, 255, 166) ;
+    background-color:black;
+    background-image: url(../imagenes/d12502180d14eebf754760e3affdfc12.jpg)
 
 }
 
+.col {
 
+    height: 50vh;
+
+}
