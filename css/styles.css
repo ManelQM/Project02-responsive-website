@@ -12,6 +12,14 @@
     height: 10vh;
 
 }
+
+.masthead {
+
+    background-size: cover;
+    min-height: 60vh;
+    /* position: relative; */
+
+}
 /* .navbar {
 
     margin-top: -2em;
