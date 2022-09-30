@@ -15,8 +15,8 @@
 #midweb {
 
     background-color:black;
-    background-image: url(../imagenes/d12502180d14eebf754760e3affdfc12.jpg)
-
+    background-image: url(../imagenes/d12502180d14eebf754760e3affdfc12.jpg);
+    height: 100vh;
 }
 
 .col {
