@@ -39,6 +39,7 @@
     display: inline-block;
     font-size: 30px;
     font-family: 'Alien League', sans-serif;
+    /* font-family: 'Alien League II Gradient', sans-serif; */
   }
   
   @keyframes textclip {
@@ -47,15 +48,12 @@
     }
   }
 
+#picturesandcarousel {
 
+    background-color: black;
+    height: 30em;
 
-
-/* #midwebcarouselandbg {
-
-    background-color:black;
-    background-image: url(../imagenes/d12502180d14eebf754760e3affdfc12.jpg);
-    height: 100vh;
-} */
+}
 
 #carouseln1 {
 
