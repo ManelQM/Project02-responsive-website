@@ -12,7 +12,12 @@
     height: 10vh;
 
 }
-#midweb {
+/* .navbar {
+
+    margin-top: -2em;
+
+} */
+#midwebcarouselandbg {
 
     background-color:black;
     background-image: url(../imagenes/d12502180d14eebf754760e3affdfc12.jpg);
