@@ -15,8 +15,8 @@
 
 .masthead {
 
-    background-size: cover;
-    min-height: 60vh;
+    background-size:cover;
+    min-height: 30vh;
     /* position: relative; */
 
 }
@@ -58,7 +58,7 @@
 
 #picturesandcarousel {
 
-    background-color: black;
+    background-color: lightseagreen;
     height: 30em;
 
 }
