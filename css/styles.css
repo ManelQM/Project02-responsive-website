@@ -16,15 +16,22 @@
 .masthead {
 
     background-size:cover;
-    min-height: 30vh;
+    min-height: 25vh;
     /* position: relative; */
 
 }
-/* .navbar {
+.dropdown-menu{
 
-    margin-top: -2em;
+background-color: black;
 
-} */
+}
+
+
+.navbar {
+
+    background-color: black;
+
+} 
 
 .animate-charcter {
 
@@ -56,9 +63,15 @@
     }
   }
 
+  #welcometext {
+
+    background-color: black;
+
+
+  }
 #picturesandcarousel {
 
-    background-color: lightseagreen;
+    background-color: black;
     height: 30em;
 
 }
