@@ -91,6 +91,32 @@ background-color: black;
  background-size: cover;
  min-height: 65vh;
   /* width: 0vh; */
+}
+  .map-container-2{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container-2 iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
 
+
+.card-body {
+
+  background-color: crimson;
+  
+}
+
+#textcard {
+
+  font-family: 'Plumeria', sans-serif;
+  font-size: 2em;
 
 }
+
