@@ -120,6 +120,18 @@ background-color: black;
 
 }
 
+/* DISHES STYLES*/
 
 
+.dishesback {
 
+  background-size:cover;
+  min-height: 70vh;
+
+}
+.col-4 {
+
+height: 25vh;
+
+border: 1px solid;
+}
