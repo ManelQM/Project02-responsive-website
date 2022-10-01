@@ -17,7 +17,7 @@
 
     background-size:cover;
     min-height: 25vh;
-    /* position: relative; */
+   
 
 }
 .dropdown-menu{
@@ -76,27 +76,21 @@ background-color: black;
 
 }
 
-#carouseln1 {
-
-    background-color: aqua;
-    height: 20vh;
-
-}
+/* CONTACT STYLES */ 
 
 
-#carouseln2 {
+#contactcontainer {
 
-    background-color: yellow;
-}
-
-#carouseln3 {
-
-    background-color: fuchsia;
+  height: 60vh;
 
 }
 
-#carouseln4 {
 
-    background-color: teal;
+.imgcontact {
+
+ background-size: cover;
+ min-height: 65vh;
+  /* width: 0vh; */
+
 
 }
