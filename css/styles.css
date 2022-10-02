@@ -1,40 +1,28 @@
 #egg{
-
     background-color: lightslategrey;
     height: 10vh;
-
-
 }
 
 .eggmenu {
-
     width: 5vw;
     height: 10vh;
     background-color: black;
 }
 
 .masthead {
-
     background-size:cover;
     min-height: 25vh;
-   
-
 }
+
 .dropdown-menu{
-
 background-color: black;
-
 }
-
 
 .navbar {
-
     background-color: black;
-
 } 
 
 .animate-charcter {
-
     text-transform: uppercase;
     background-image: linear-gradient(
       -225deg,
@@ -54,7 +42,6 @@ background-color: black;
     display: inline-block;
     font-size: 30px;
     font-family: 'Alien League', sans-serif;
-    /* font-family: 'Alien League II Gradient', sans-serif; */
   }
   
   @keyframes textclip {
@@ -64,33 +51,23 @@ background-color: black;
   }
 
   #welcometext {
-
     background-color: black;
-
-
   }
-#picturesandcarousel {
 
+#picturesandcarousel {
     background-color: black;
     height: 30em;
-
 }
 
 /* CONTACT STYLES */ 
 
-
 #contactcontainer {
-
   height: 60vh;
-
 }
 
-
 .imgcontact {
-
  background-size: cover;
  min-height: 65vh;
-  /* width: 0vh; */
 }
   .map-container-2{
     overflow:hidden;
@@ -106,39 +83,23 @@ background-color: black;
     position:absolute;
   }
 
-
 .card-body {
-
-  background-color: crimson;
-  
+  background-color: crimson; 
 }
 
 #textcard {
-
   font-family: 'Plumeria', sans-serif;
   font-size: 2em;
-
 }
 
 /* DISHES STYLES*/
 
-
-.dishesback {
-
+#dishesrow {
   background-size:cover;
   min-height: 70vh;
-
-}
-.col-4 {
-
-/* height: ; */
-
-border: 1px solid coral;
 }
 
 #dishimg {
 
   height: 14em;
-
-
 }
